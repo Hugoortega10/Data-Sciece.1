@@ -1,0 +1,49 @@
+"Title:","2-Bedroom Unit from the Fair Market Rent Database"
+"SubTitle:","County"
+"Time:","1985 - 2020"
+"Unit of Measure:","$","$","$","$","$","$"
+"Citation:","United States Department of Housing and Urban Development (2022-11-03). Fair Market Rent: 2-Bedroom Unit | Albany County, Bronx County, Putnam County, Queens County, Rockland County, Westchester County, 1985 - 2020. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  009-001-003 doi:https://doi.org/10.6068/DP1848087F88437"
+"ColumnCount:",7
+"RowCount:",35
+
+"Time","Albany County, New York ($)","Bronx County, New York ($)","Putnam County, New York ($)","Queens County, New York ($)","Rockland County, New York ($)","Westchester County, New York ($)"
+"1985",383,436,436,436,436,436
+"1986",390,470,470,470,470,470
+"1987",417,503,503,503,503,503
+"1988",438,535,535,535,535,642
+"1989",459,566,566,566,566,674
+"1990",482,593,593,593,593,707
+"1991",508,625,625,625,625,745
+"1992",532,659,659,659,659,786
+"1993",547,681,681,681,681,813
+"1994",578,819,819,819,819,976
+"1995",567,798,798,798,798,960
+"1996",584,817,817,817,817,983
+"1997",586,838,838,838,838,1009
+"1998",595,862,862,862,862,1038
+"1999",601,891,891,891,891,1073
+"2000",604,920,920,920,920,1108
+"2001",607,949,949,949,949,1144
+"2002",621,993,993,993,993,1196
+"2003",633,1031,1031,1031,1031,1242
+"2004",634,1073,1073,1073,1073,1294
+"2005",679,1075,1075,1075,1075,1259
+"2006",715,1133,1133,1133,1133,1316
+"2007",752,1189,1189,1189,1189,1395
+"2008",851,1318,1318,1318,1318,1519
+"2009",868,1313,1313,1313,1313,1610
+"2010",868,1313,1313,1313,1313,1610
+"2011",900,1403,1403,1403,1403,1561
+"2012",870,1424,1424,1424,1424,1580
+"2013",921,1474,1474,1474,1474,1468
+"2015",968,1481,1481,1481,1481,1591
+"2016",1005,1571,1571,1571,1571,1510
+"2017",1006,1637,1637,1637,1637,1706
+"2018",1032,1789,1789,1789,1789,1687
+"2019",1115,1831,1831,1831,1831,1775
+"2020",1054,1951,1951,1951,1951,1975
+
+
+
+"Publisher:", "United States Department of Housing and Urban Development"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
